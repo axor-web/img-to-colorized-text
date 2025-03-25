@@ -9,7 +9,7 @@ A simple tool for transforming images to some colorized text.
 
 ## Configuration
 
-Tool can be configurated through the variables in the environment (you can pass them before execution / export / add to `.env` file )
+Tool can be configured through the variables in the environment (you can pass it before execution / export it / add it to `.env` file )
 
 ### Parameters
 
@@ -29,6 +29,7 @@ RENDER_IMAGE_QUALITY = 2 # multiplies original image sizes. Example: original 10
 
 ## TODO
 
-- Rewrite with canvas
+- Rewrite with `node-canvas`
 - Create simple user interface
 - Add possibility to use with non-integer letter sizes
+- More detailed README
