@@ -2,10 +2,16 @@
 
 A simple tool for transforming images to some colorized text.
 
+![output](./output/output.png)
+
 ## Usage
 
 - `npm i`
 - `(YOUR ENV PARAMS HERE...) npm start`
+
+### Try example:
+
+- `npm run runExample`
 
 ## Configuration
 
